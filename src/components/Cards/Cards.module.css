@@ -1,0 +1,38 @@
+.container {
+    display: flex;
+    align-items: center;
+    margin: 50px 0;
+    width: 100%;
+  }
+  
+.card {
+  margin: 0 2% !important;
+}
+
+.card2 {
+  margin: 0 2% !important;
+  display: flex;
+  align-items: flex-start;
+  width: 78%;
+  flex-flow: row wrap;
+  padding: 2px 0px 0px 100px;
+}
+
+.infected {
+  border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.recovered{
+  border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+}
+
+.deaths{
+  border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+}
+
+
+
+
+.swag{
+  padding: 2px 0px 0px 24px;
+}
