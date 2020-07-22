@@ -2,8 +2,20 @@
     display: flex;
     align-items: center;
     margin: 50px 0;
-    width: 100%;
+    width: 78%;
   }
+
+
+  .container2 {
+    display: flex;
+    align-items: center;
+    margin: 50px 0;
+    width: 40%;
+  }
+
+
+
+
   
 .card {
   margin: 0 2% !important;
@@ -31,8 +43,15 @@
 }
 
 
-
-
-.swag{
+.typography_padding{
   padding: 2px 0px 0px 24px;
+}
+
+.avatar{
+  backgroundColor: red[500];
+}
+
+
+.header{
+  font-size: large;
 }
